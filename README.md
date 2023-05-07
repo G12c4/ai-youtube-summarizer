@@ -12,7 +12,7 @@ This is a Streamlit application that uses OpenAI's Language Model to summarize Y
 
 Clone this repository:
 ```
-git clone https://github.com/G12c4/ai-self-learning-teacher.git
+git clone https://github.com/G12c4/ai-youtube-summarizer.git
 ```
 
 Navigate to the repository folder and install the required packages:
