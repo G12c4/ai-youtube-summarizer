@@ -17,7 +17,7 @@ git clone https://github.com/G12c4/ai-youtube-summarizer.git
 
 Navigate to the repository folder and install the required packages:
 ```
-cd your-repo-name
+cd ai-youtube-summarizer
 pip install -r requirements.txt
 ```
 
